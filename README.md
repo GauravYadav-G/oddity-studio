@@ -1,6 +1,5 @@
 # Oddity® — Independent Design Studio, Lisbon
 
-> 🌐 **Live Demo:** [https://oddity-xi.vercel.app](https://oddity-xi.vercel.app)
 Independent design studio website based in Lisbon, featuring interactive pointer-reactive typography, sticky case study stack, magnetic cursor interactions, and high-impact kinetic branding.
 
 ## Quick Start
